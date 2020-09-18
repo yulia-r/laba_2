@@ -22,4 +22,5 @@ int main()
 	}
 
 	cout << s << endl;
+	cout << "Готово!" << endl;
 }
